@@ -1,0 +1,184 @@
+studentId,mealType,rating,comment,date
+24BAI1001,BREAKFAST,4,poha was hot and fresh today,2026-03-01
+24BCE1002,BREAKFAST,3,tea was lukewarm but bread was okay,2026-03-01
+24BCS1003,LUNCH,2,rice was undercooked and dal was watery,2026-03-01
+24BME1004,LUNCH,2,cold rice and stale curry very bad today,2026-03-01
+24BAI1005,SNACKS,4,samosa was crispy and hot,2026-03-01
+24BCE1006,DINNER,3,chapati was hard but sabzi was decent,2026-03-01
+24BCS1007,DINNER,2,dinner was cold and tasteless today,2026-03-01
+24BME1008,BREAKFAST,5,idli sambar was excellent today,2026-03-02
+24BAI1009,BREAKFAST,4,upma was tasty and hot,2026-03-02
+24BCE1010,LUNCH,2,stale smell in rice very disappointing,2026-03-02
+24BCS1001,LUNCH,1,worst lunch found something in dal,2026-03-02
+24BME1002,SNACKS,3,biscuits and chai were average,2026-03-02
+24BAI1003,DINNER,4,paneer was good and fresh today,2026-03-02
+24BCE1004,DINNER,3,okay dinner nothing special,2026-03-02
+24BCS1005,BREAKFAST,2,bread was stale and butter was not fresh,2026-03-03
+24BME1006,BREAKFAST,2,cold milk and hard poha not acceptable,2026-03-03
+24BAI1007,LUNCH,1,rice smelled bad completely inedible,2026-03-03
+24BCE1008,LUNCH,2,watery dal and undercooked rice again,2026-03-03
+24BCS1009,SNACKS,5,vada pav was amazing today,2026-03-03
+24BME1010,DINNER,4,dal makhani was really tasty,2026-03-03
+24BAI1001,DINNER,4,chapati was soft and sabzi was hot,2026-03-03
+24BCE1002,BREAKFAST,3,average breakfast nothing great,2026-03-04
+24BCS1003,BREAKFAST,4,dosa was crispy and chutney was fresh,2026-03-04
+24BME1004,LUNCH,3,lunch was okay could be better,2026-03-04
+24BAI1005,LUNCH,2,cold and stale same issue every day,2026-03-04
+24BCE1006,SNACKS,4,maggi was hot and tasty,2026-03-04
+24BCS1007,DINNER,5,biryani was outstanding best dinner this week,2026-03-04
+24BME1008,DINNER,4,good quantity and taste today,2026-03-04
+24BAI1009,BREAKFAST,4,paratha and curd was filling and fresh,2026-03-05
+24BCE1010,BREAKFAST,3,tea was okay bread was slightly stale,2026-03-05
+24BCS1001,LUNCH,3,average lunch today,2026-03-05
+24BME1002,LUNCH,4,dal tadka was really good today,2026-03-05
+24BAI1003,SNACKS,2,cold samosa and stale chutney,2026-03-05
+24BCE1004,DINNER,3,dinner was late and slightly cold,2026-03-05
+24BCS1005,DINNER,4,rajma chawal was delicious today,2026-03-05
+24BME1006,BREAKFAST,5,excellent breakfast hot and fresh,2026-03-06
+24BAI1007,BREAKFAST,4,good poha and chai today,2026-03-06
+24BCE1008,LUNCH,2,undercooked dal and hard rice again,2026-03-06
+24BCS1009,LUNCH,1,lunch was terrible cold and tasteless,2026-03-06
+24BME1010,SNACKS,3,okay snacks nothing special,2026-03-06
+24BAI1001,DINNER,5,paneer butter masala was outstanding,2026-03-06
+24BCE1002,DINNER,4,good dinner overall enjoyed it,2026-03-06
+24BCS1003,BREAKFAST,3,upma was slightly cold today,2026-03-07
+24BME1004,BREAKFAST,4,idli was soft and sambar was hot,2026-03-07
+24BAI1005,LUNCH,2,stale rice and watery curry,2026-03-07
+24BCE1006,LUNCH,2,same bad quality please improve lunch,2026-03-07
+24BCS1007,SNACKS,4,bread pakora was crispy and fresh,2026-03-07
+24BME1008,DINNER,3,dinner was okay but served late,2026-03-07
+24BAI1009,DINNER,4,good chapati and mix veg today,2026-03-07
+24BCE1010,BREAKFAST,2,cold tea and stale bread again,2026-03-07
+24BCS1001,BREAKFAST,4,puri bhaji was hot and tasty,2026-03-08
+24BME1002,BREAKFAST,5,best breakfast this month so far,2026-03-08
+24BAI1003,LUNCH,3,rice was okay dal was average,2026-03-08
+24BCE1004,LUNCH,2,hard rice and no taste in curry,2026-03-08
+24BCS1005,SNACKS,4,aloo tikki was crispy and good,2026-03-08
+24BME1006,DINNER,4,dinner was fresh and served on time,2026-03-08
+24BAI1007,DINNER,3,chapati was okay sabzi was cold,2026-03-08
+24BCE1008,BREAKFAST,3,cornflakes and milk were fine,2026-03-09
+24BCS1009,BREAKFAST,4,upma and chai were good today,2026-03-09
+24BME1010,LUNCH,1,completely tasteless and cold lunch,2026-03-09
+24BAI1001,LUNCH,2,dal was too thin and rice was hard,2026-03-09
+24BCE1002,SNACKS,5,samosa chaat was delicious today,2026-03-09
+24BCS1003,DINNER,4,palak paneer was really good,2026-03-09
+24BME1004,DINNER,5,excellent dinner today best this week,2026-03-09
+24BAI1005,BREAKFAST,2,bread was hard and eggs were cold,2026-03-10
+24BCE1006,BREAKFAST,3,okay breakfast nothing to complain,2026-03-10
+24BCS1007,LUNCH,2,watery dal and stale rice again,2026-03-10
+24BME1008,LUNCH,3,lunch was average today,2026-03-10
+24BAI1009,SNACKS,4,chai and pakora were hot,2026-03-10
+24BCE1010,DINNER,5,chole bhature was amazing,2026-03-10
+24BCS1001,DINNER,4,dinner was on time and tasty,2026-03-10
+24BME1002,BREAKFAST,4,poha and tea were fresh and hot,2026-03-11
+24BAI1003,BREAKFAST,3,average start to the day,2026-03-11
+24BCE1004,LUNCH,2,cold rice and no salt in dal,2026-03-11
+24BCS1005,LUNCH,1,inedible lunch worst so far this month,2026-03-11
+24BME1006,SNACKS,3,biscuits and juice were okay,2026-03-11
+24BAI1007,DINNER,4,dal fry and roti were really good,2026-03-11
+24BCE1008,DINNER,3,okay dinner served on time,2026-03-11
+24BCS1009,BREAKFAST,5,dosa was crispy and sambar was hot,2026-03-12
+24BME1010,BREAKFAST,4,good breakfast today enjoyed it,2026-03-12
+24BAI1001,LUNCH,3,lunch was decent today,2026-03-12
+24BCE1002,LUNCH,2,stale smell in curry not acceptable,2026-03-12
+24BCS1003,SNACKS,4,vada pav was hot and fresh,2026-03-12
+24BME1004,DINNER,4,paneer masala was tasty today,2026-03-12
+24BAI1005,DINNER,3,dinner was okay nothing great,2026-03-12
+24BCE1006,BREAKFAST,4,paratha was soft and pickle was good,2026-03-13
+24BCS1007,BREAKFAST,2,cold milk and soggy cornflakes,2026-03-13
+24BME1008,LUNCH,2,hard rice and watery dal again,2026-03-13
+24BAI1009,LUNCH,1,terrible lunch cold and tasteless,2026-03-13
+24BCE1010,SNACKS,4,maggi was hot and well cooked,2026-03-13
+24BCS1001,DINNER,5,biryani was the best this month,2026-03-13
+24BME1002,DINNER,4,good dinner today chapati was soft,2026-03-13
+24BAI1003,BREAKFAST,3,upma was cold but chai was good,2026-03-14
+24BCE1004,BREAKFAST,4,idli and chutney were fresh,2026-03-14
+24BCS1005,LUNCH,3,average lunch rice was okay,2026-03-14
+24BME1006,LUNCH,2,cold and tasteless same problem,2026-03-14
+24BAI1007,SNACKS,5,pav bhaji was outstanding today,2026-03-14
+24BCE1008,DINNER,4,good sabzi and soft chapati,2026-03-14
+24BCS1009,DINNER,3,dinner was late today,2026-03-14
+24BME1010,BREAKFAST,4,bread omelette was hot and fresh,2026-03-15
+24BAI1001,BREAKFAST,5,excellent breakfast today very fresh,2026-03-15
+24BCE1002,LUNCH,2,rice was undercooked yet again,2026-03-15
+24BCS1003,LUNCH,2,dal had no taste and rice was cold,2026-03-15
+24BME1004,SNACKS,4,aloo bonda was crispy today,2026-03-15
+24BAI1005,DINNER,5,matar paneer was delicious,2026-03-15
+24BCE1006,DINNER,4,good dinner today well cooked,2026-03-15
+24BCS1007,BREAKFAST,3,tea was okay bread was stale,2026-03-16
+24BME1008,BREAKFAST,4,poha was fresh and hot today,2026-03-16
+24BAI1009,LUNCH,3,average lunch today dal was thin,2026-03-16
+24BCE1010,LUNCH,4,good improvement in lunch quality today,2026-03-16
+24BCS1001,SNACKS,3,average snacks today,2026-03-16
+24BME1002,DINNER,4,dinner was tasty and hot,2026-03-16
+24BAI1003,DINNER,5,best dinner this week paneer was great,2026-03-16
+24BCE1004,BREAKFAST,2,stale bread and cold eggs again,2026-03-17
+24BCS1005,BREAKFAST,4,dosa was crispy chutney was fresh,2026-03-17
+24BME1006,LUNCH,2,watery dal and undercooked rice,2026-03-17
+24BAI1007,LUNCH,1,worst lunch this month completely cold,2026-03-17
+24BCE1008,SNACKS,4,samosa was crispy and filling,2026-03-17
+24BCS1009,DINNER,4,rajma was tasty and hot today,2026-03-17
+24BME1010,DINNER,3,dinner okay but quantity was less,2026-03-17
+24BAI1001,BREAKFAST,4,good upma and hot chai,2026-03-18
+24BCE1002,BREAKFAST,3,average breakfast nothing special,2026-03-18
+24BCS1003,LUNCH,2,hard rice and cold dal again,2026-03-18
+24BME1004,LUNCH,2,stale curry and undercooked rice,2026-03-18
+24BAI1005,SNACKS,5,bread pakora was hot and crispy,2026-03-18
+24BCE1006,DINNER,4,good chapati and dal makhani,2026-03-18
+24BCS1007,DINNER,4,dinner was hot and tasty today,2026-03-18
+24BME1008,BREAKFAST,5,idli sambar was outstanding today,2026-03-19
+24BAI1009,BREAKFAST,4,paratha and curd was filling,2026-03-19
+24BCE1010,LUNCH,3,lunch was average today,2026-03-19
+24BCS1001,LUNCH,2,cold and tasteless lunch again,2026-03-19
+24BME1002,SNACKS,4,vada pav was fresh and hot,2026-03-19
+24BAI1003,DINNER,5,paneer butter masala was excellent,2026-03-19
+24BCE1004,DINNER,4,good dinner today well served,2026-03-19
+24BCS1005,BREAKFAST,3,tea was okay bread was stale,2026-03-20
+24BME1006,BREAKFAST,4,upma was hot and tasty,2026-03-20
+24BAI1007,LUNCH,2,watery dal and cold rice today,2026-03-20
+24BCE1008,LUNCH,1,inedible lunch very disappointing,2026-03-20
+24BCS1009,SNACKS,3,biscuits and chai were okay,2026-03-20
+24BME1010,DINNER,4,mix veg and roti were good,2026-03-20
+24BAI1001,DINNER,5,chole was amazing best dinner this week,2026-03-20
+24BCE1002,BREAKFAST,4,puri bhaji was hot and fresh,2026-03-21
+24BCS1003,BREAKFAST,3,average breakfast today,2026-03-21
+24BME1004,LUNCH,3,lunch was okay dal was thin,2026-03-21
+24BAI1005,LUNCH,2,cold rice and no flavour in curry,2026-03-21
+24BCE1006,SNACKS,5,aloo tikki chaat was outstanding,2026-03-21
+24BCS1007,DINNER,4,good dinner sabzi was fresh,2026-03-21
+24BME1008,DINNER,3,dinner was okay served on time,2026-03-21
+24BAI1009,BREAKFAST,5,best breakfast this month dosa was perfect,2026-03-22
+24BCE1010,BREAKFAST,4,idli was soft and chutney was fresh,2026-03-22
+24BCS1001,LUNCH,2,stale rice and watery curry again,2026-03-22
+24BME1002,LUNCH,2,cold and undercooked rice,2026-03-22
+24BAI1003,SNACKS,4,samosa was crispy and hot,2026-03-22
+24BCE1004,DINNER,5,paneer biryani was absolutely delicious,2026-03-22
+24BCS1005,DINNER,4,dinner was hot and fresh,2026-03-22
+24BME1006,BREAKFAST,3,cold milk and average poha,2026-03-23
+24BAI1007,BREAKFAST,4,bread omelette was good today,2026-03-23
+24BCE1008,LUNCH,3,lunch was average today,2026-03-23
+24BCS1009,LUNCH,2,hard rice and tasteless dal,2026-03-23
+24BME1010,SNACKS,4,chai and pakora were hot,2026-03-23
+24BAI1001,DINNER,4,good dinner today dal fry was tasty,2026-03-23
+24BCE1002,DINNER,3,okay dinner chapati was a bit hard,2026-03-23
+24BCS1003,BREAKFAST,4,poha and chai were fresh and hot,2026-03-24
+24BME1004,BREAKFAST,5,excellent breakfast today very impressed,2026-03-24
+24BAI1005,LUNCH,2,cold curry and hard rice again,2026-03-24
+24BCE1006,LUNCH,1,worst lunch this month please improve,2026-03-24
+24BCS1007,SNACKS,3,average snacks today nothing great,2026-03-24
+24BME1008,DINNER,5,biryani was outstanding today loved it,2026-03-24
+24BAI1009,DINNER,4,good dinner today well cooked,2026-03-24
+24BCE1010,BREAKFAST,3,okay breakfast tea was cold,2026-03-25
+24BCS1001,BREAKFAST,4,upma was hot and tasty,2026-03-25
+24BME1002,LUNCH,3,lunch was decent today,2026-03-25
+24BAI1003,LUNCH,2,stale smell in dal not acceptable,2026-03-25
+24BCE1004,SNACKS,4,maggi was fresh and hot,2026-03-25
+24BCS1005,DINNER,4,palak paneer was really good today,2026-03-25
+24BME1006,DINNER,3,dinner was okay served a bit late,2026-03-25
+24BAI1007,BREAKFAST,4,dosa was crispy and sambar was hot,2026-03-26
+24BCE1008,BREAKFAST,5,best breakfast today idli was perfect,2026-03-26
+24BCS1009,LUNCH,2,cold rice and watery dal again,2026-03-26
+24BME1010,LUNCH,2,undercooked rice and tasteless curry,2026-03-26
+24BAI1001,SNACKS,5,pav bhaji was amazing today,2026-03-26
+24BCE1002,DINNER,4,good dinner chapati was soft,2026-03-26
+24BCS1003,DINNER,5,matar paneer was excellent today,2026-03-26
